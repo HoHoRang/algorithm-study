@@ -3,4 +3,3 @@
 - [백준](/baekjoon/)
 - [프로그래머스](/programmers/)
 - [구름](/goorm/)
-  a
